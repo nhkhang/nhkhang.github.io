@@ -10,5 +10,5 @@ Vừa nghe tin trường cho nghỉ học hết tháng 3 vì dịch corona, bả
 
 Và thế là tèn ten. Một cái trang blog cá nhân ra đời trong vòng chưa đầy 10'!
 
-Vậy là hết bài blog đầu tiên kể về bài blog đầu tiên được ra đời như thế nào rồi đó :)
+Vậy là hết bài blog đầu tiên kể về bài blog đầu tiên được ra đời như thế nào rồi đó :)  
 Stay tuned and follow for more fun things.
