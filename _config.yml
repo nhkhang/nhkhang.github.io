@@ -1,5 +1,5 @@
 # Site settings
-title: nhkhang
+title: Welcome to my blog!
 description: Yayayay>
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -10,7 +10,6 @@ url: "http://hitchhiker.ma" # the base hostname & protocol for your site
 
 author:
   fullname: nhkhang
-  googleplus: 
   github: nhkhang
   # disqus: your_disqus_forum_shortname
 
