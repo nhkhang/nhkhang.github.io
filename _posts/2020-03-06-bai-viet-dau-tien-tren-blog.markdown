@@ -10,4 +10,4 @@ Vừa nghe tin trường cho nghỉ học hết tháng 3 vì dịch corona, bả
 
 Vậy là hết bài blog đầu tiên kể về bài blog đầu tiên được ra đời như thế nào rồi đó :) 
 
-Stay tuned and follow for more fun things.
+Stay tuned and follow for more fun.
